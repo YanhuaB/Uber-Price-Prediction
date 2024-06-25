@@ -7,7 +7,7 @@ for drivers, and offering competitive pricing for customers.
 
 ## Dataset Description
 The dataset used in this challenge contains information on historical Uber trips. It includes the following key attributes:
-[data set](docs/CONTRIBUTING.md)
+[data set](01 Data Set/uber.csv)
 - **key:** A unique identifier for each trip.
 - **fare_amount:** The fare amount for the trip in USD.
 - **pickup_datetime:** The timestamp when the trip started.
